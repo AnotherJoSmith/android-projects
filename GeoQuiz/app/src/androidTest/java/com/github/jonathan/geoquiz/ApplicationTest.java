@@ -1,4 +1,4 @@
-package com.github.anotherjosmith.geoquiz;
+package com.github.jonathan.geoquiz;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
