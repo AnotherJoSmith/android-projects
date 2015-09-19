@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io/api/android,intellij
-
+solutions/
 ### Android ###
 # Built application files
 *.apk
